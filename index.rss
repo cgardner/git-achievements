@@ -2,6 +2,7 @@
 <title>Craig Gardner's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Blacksmith (Level 1)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Apprentice Miller (Level 3)</title><description>Add only part of a file to the stage 9 times with git add -p.</description></item>
 <item><title>Apprentice Collector (Level 3)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Apprentice Banker (Level 1)</title><description>Join two or more development histories together with git merge.</description></item>
